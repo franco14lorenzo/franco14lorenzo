@@ -4,4 +4,4 @@ My name is Franco. I'm passionate about creating products from scratch with a UX
 
 [![GitHub](https://img.shields.io/github/followers/franco14lorenzo?label=GitHub&style=social)]([https://github.com/franco14lorenzo](https://github.com/franco14lorenzo))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/franco14lorenzo)
-[![Twitter](https://img.shields.io/twitter/follow/franco14lorenzo?label=Twitter&style=social)](https://twitter.com/franco14lorezno)
+
